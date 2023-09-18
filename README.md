@@ -15,7 +15,7 @@ In traditional deep learning algorithms, one of the key assumptions is that the 
 
 This repo contains the complete results, while the paper only contains some selection of the results. This also includes perfomrnace during the training and validation sets, and as well as the standard deviations for all results.
 
-The complete results is here: (Results_2_BuildSys23.csv)[Results_2_BuildSys23.csv] Note that `_u` is the mean while `_s` is the standard deviation. Some models are deterministic and do not have standard deviations.
+The complete results is here: [Results_2_BuildSys23.csv](Results_2_BuildSys23.csv) Note that `_u` is the mean while `_s` is the standard deviation. Some models are deterministic and do not have standard deviations.
 
 If I have time, I might upload the hyperparameter and other stuff, like training time and memory use, as well.
 
