@@ -6,7 +6,13 @@ This is the official repo of the following paper: Navigating Out-of-Distribution
 
 This is a follow up paper on our previous work: Continually learning out-of-distribution spatiotemporal data for robust energy forecasting. In **ECML PKDD ADS 2023**. https://arxiv.org/abs/2306.06385
 
-This repo contains the complete results, while the paper only contains some selection of the results.
+# Results
+
+This repo contains the complete results, while the paper only contains some selection of the results. This also includes perfomrnace during the training and validation sets, and as well as the standard deviations for all results.
+
+Exponential smooting is not included as it is exactly the same as `CopyLastHour`.
+
+# Data and code.
 
 Unfortunately, the data and the code are private and cannot be published. This might change in the future. [Written on 2023 09 18]
 
