@@ -15,7 +15,7 @@ In traditional deep learning algorithms, one of the key assumptions is that the 
 
 This repo contains the complete results, while the paper only contains some selection of the results. This also includes perfomrnace during the training and validation sets, and as well as the standard deviations for all results.
 
-Exponential smooting is not included as it is exactly the same as `CopyLastHour`.
+Exponential smooting (`ES`) is not included as it is exactly the same as `CopyLastHour`.
 
 # Data and Code
 
