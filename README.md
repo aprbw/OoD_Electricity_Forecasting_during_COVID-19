@@ -1,5 +1,5 @@
 # Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility
-
+[!visual_abstract](/e18_vizabs.png)
 This figure illustrates the impact of the first COVID-19 lockdown (indicated by the red region) on the electricity load of a building complex located in Melbourne’s Central Business District (top graph). Concurrently, it presents the effect on the average human mobility throughout the city, as measured by pedestrian count (bottom graph). The diagram clearly shows significant shifts in distributions during the lockdown, which do not fully revert to their pre-lockdown state even after restrictions are lifted
 
 This is the official repo of the following paper: Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility. In **BuildSys 2023**. https://arxiv.org/abs/2309.04296
