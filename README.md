@@ -4,7 +4,7 @@ This figure illustrates the impact of the first COVID-19 lockdown (indicated by 
 
 This is the official repo of the following paper: Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility. In **BuildSys 2023**. https://arxiv.org/abs/2309.04296
 
-This is a follow up paper on our previous work: Continually learning out-of-distribution spatiotemporal data for robust energy forecasting. In **ECML PKDD ADS 2023**. https://arxiv.org/abs/2306.06385 . [[Poster](/ECML_PKDD_energy_poster_v3.pdf)] [[Slides](/ECMLPKDD23energy_slides_v5.pdf)]
+This is a follow up paper on our previous work: [Continually learning out-of-distribution spatiotemporal data for robust energy forecasting](https://rdcu.be/dmwh4). In **ECML PKDD ADS 2023**. https://arxiv.org/abs/2306.06385 . [[Poster](/ECML_PKDD_energy_poster_v3.pdf)] [[Slides](/ECMLPKDD23energy_slides_v5.pdf)]
 
 # Abstract
 
@@ -44,7 +44,24 @@ BibTex:
 
 ## ECML PKDD ADS 2023
 
-Harvard:
+```
+Prabowo, A., Chen, K., Xue, H., Sethuvenkatraman, S., Salim, F.D. (2023). Continually Learning Out-of-Distribution Spatiotemporal Data for Robust Energy Forecasting. In: De Francisci Morales, G., Perlich, C., Ruchansky, N., Kourtellis, N., Baralis, E., Bonchi, F. (eds) Machine Learning and Knowledge Discovery in Databases: Applied Data Science and Demo Track. ECML PKDD 2023. Lecture Notes in Computer Science(), vol 14175. Springer, Cham. https://doi.org/10.1007/978-3-031-43430-3_1
+```
 
 BibTex:
+
+```
+@InProceedings{10.1007/978-3-031-43430-3_1,
+author="Prabowo, Arian and Chen, Kaixuan and Xue, Hao and Sethuvenkatraman, Subbu and Salim, Flora D.",
+editor="De Francisci Morales, Gianmarco and Perlich, Claudia and Ruchansky, Natali and Kourtellis, Nicolas and Baralis, Elena and Bonchi, Francesco",
+title="Continually Learning Out-of-Distribution Spatiotemporal Data for Robust Energy Forecasting",
+booktitle="Machine Learning and Knowledge Discovery in Databases: Applied Data Science and Demo Track",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="3--19",
+isbn="978-3-031-43430-3"
+}
+```
+
 
