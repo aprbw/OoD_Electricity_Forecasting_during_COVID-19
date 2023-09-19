@@ -4,7 +4,7 @@ This figure illustrates the impact of the first COVID-19 lockdown (indicated by 
 
 This is the official repo of the following paper: Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility. In **BuildSys 2023**. https://arxiv.org/abs/2309.04296
 
-This is a follow up paper on our previous work: Continually learning out-of-distribution spatiotemporal data for robust energy forecasting. In **ECML PKDD ADS 2023**. https://arxiv.org/abs/2306.06385 . [[Poster](/ECML_PKDD_energy_poster_v3.pdf)]
+This is a follow up paper on our previous work: Continually learning out-of-distribution spatiotemporal data for robust energy forecasting. In **ECML PKDD ADS 2023**. https://arxiv.org/abs/2306.06385 . [[Poster](/ECML_PKDD_energy_poster_v3.pdf)] [[Slide](/ECMLPKDD23energy_slides_v5.pdf)]
 
 # Abstract
 
