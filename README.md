@@ -24,3 +24,27 @@ Exponential smooting (`ES`) is not included as it is exactly the same as `CopyLa
 # Data and Code
 
 Unfortunately, the data and the code are private and cannot be published. This might change in the future. [Written on 2023 09 18]
+
+# Cite
+
+## BuildSys 2023
+
+Harvard:
+
+BibTex:
+
+```
+@inproceedings{prabowo2019coltrane,
+      title={Continually learning out-of-distribution spatiotemporal data for robust energy forecasting},
+      author={Prabowo, Arian and Chen, Kaixuan and Sethuvenkatraman, Subbu and Salim, Flora D},
+      booktitle={Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+      year={2023}
+}
+```
+
+## ECML PKDD ADS 2023
+
+Harvard:
+
+BibTex:
+
