@@ -29,14 +29,16 @@ Unfortunately, the data and the code are private and cannot be published. This m
 
 ## BuildSys 2023
 
-Harvard:
+```
+Arian Prabowo, Kaixuan Chenm, Hao Xue, Subbu Sethuvenkatraman, and Flora D. Salim. 2023. Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility. In The 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’23), November 13-14, 2023, Istanbul, Turkiye.
+```
 
 BibTex:
 
 ```
 @inproceedings{prabowo2019coltrane,
-      title={Continually learning out-of-distribution spatiotemporal data for robust energy forecasting},
-      author={Prabowo, Arian and Chen, Kaixuan and Sethuvenkatraman, Subbu and Salim, Flora D},
+      title={Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility},
+      author={Prabowo, Arian and Chen, Kaixuan and Xue, Hao and Sethuvenkatraman, Subbu and Salim, Flora D},
       booktitle={Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
       year={2023}
 }
