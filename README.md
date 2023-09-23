@@ -36,7 +36,7 @@ Arian Prabowo, Kaixuan Chenm, Hao Xue, Subbu Sethuvenkatraman, and Flora D. Sali
 BibTex:
 
 ```
-@inproceedings{prabowo2019coltrane,
+@inproceedings{prabowo2023energyBuildSys,
       title={Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility},
       author={Prabowo, Arian and Chen, Kaixuan and Xue, Hao and Sethuvenkatraman, Subbu and Salim, Flora D},
       booktitle={Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
@@ -53,7 +53,7 @@ Prabowo, A., Chen, K., Xue, H., Sethuvenkatraman, S., Salim, F.D. (2023). Contin
 BibTex:
 
 ```
-@InProceedings{10.1007/978-3-031-43430-3_1,
+@InProceedings{prabowo2023energyECMLPKDD,
 author="Prabowo, Arian and Chen, Kaixuan and Xue, Hao and Sethuvenkatraman, Subbu and Salim, Flora D.",
 editor="De Francisci Morales, Gianmarco and Perlich, Claudia and Ruchansky, Natali and Kourtellis, Nicolas and Baralis, Elena and Bonchi, Francesco",
 title="Continually Learning Out-of-Distribution Spatiotemporal Data for Robust Energy Forecasting",
