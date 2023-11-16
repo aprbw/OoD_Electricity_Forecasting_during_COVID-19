@@ -2,7 +2,7 @@
 ![visual_abstract](/e18_vizabs.png)
 This figure illustrates the impact of the first COVID-19 lockdown (indicated by the red region) on the electricity load of a building complex located in Melbourne’s Central Business District (top graph). Concurrently, it presents the effect on the average human mobility throughout the city, as measured by pedestrian count (bottom graph). The diagram clearly shows significant shifts in distributions during the lockdown, which do not fully revert to their pre-lockdown state even after restrictions are lifted
 
-This is the official repo of the following paper: [Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: Benchmarking energy load forecasting models without and with continual learning](https://dl.acm.org/doi/10.1145/3600100.3623726). In [**BuildSys 2023**](https://buildsys.acm.org/2023/program/). https://arxiv.org/abs/2309.04296
+This is the official repo of the following paper: [Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: Benchmarking energy load forecasting models without and with continual learning](https://dl.acm.org/doi/10.1145/3600100.3623726). In [**BuildSys 2023**](https://buildsys.acm.org/2023/program/). [[ArXiv](https://arxiv.org/abs/2309.04296)]
 
 This is a follow up paper on our previous work: [Continually learning out-of-distribution spatiotemporal data for robust energy forecasting](https://www.springerprofessional.de/en/continually-learning-out-of-distribution-spatiotemporal-data-for/26052052). In [**ECML PKDD ADS 2023**](https://2023.ecmlpkdd.org/program/paper-session-overview/program-19-september-2023/). [[ArXiv](https://arxiv.org/abs/2306.06385)] [[SharedIt pdf](https://rdcu.be/dmwh4)] [[Poster](/ECML_PKDD_energy_poster_v3.pdf)] [[Slides](/ECMLPKDD23energy_slides_v5.pdf)] [[Talk](https://youtu.be/yAT0B0z5n-U)].
 
@@ -30,17 +30,27 @@ Unfortunately, the data and the code are private and cannot be published. This m
 ## BuildSys 2023
 
 ```
-Arian Prabowo, Kaixuan Chenm, Hao Xue, Subbu Sethuvenkatraman, and Flora D. Salim. 2023. Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: A Continual Learning Approach Leveraging Human Mobility. In The 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys ’23), November 13-14, 2023, Istanbul, Turkiye.
+Arian Prabowo, Kaixuan Chen, Hao Xue, Subbu Sethuvenkatraman, and Flora D. Salim. 2023. Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: Benchmarking energy load forecasting models without and with continual learning. In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '23). Association for Computing Machinery, New York, NY, USA, 41–50. https://doi.org/10.1145/3600100.3623726
 ```
 
 BibTex:
 
 ```
 @inproceedings{prabowo2023energyBuildSys,
-      title={Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: Benchmarking energy load forecasting models without and with continual learning},
-      author={Prabowo, Arian and Chen, Kaixuan and Xue, Hao and Sethuvenkatraman, Subbu and Salim, Flora D},
-      booktitle={Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
-      year={2023}
+author = {Prabowo, Arian and Chen, Kaixuan and Xue, Hao and Sethuvenkatraman, Subbu and Salim, Flora D.},
+title = {Navigating Out-of-Distribution Electricity Load Forecasting during COVID-19: Benchmarking Energy Load Forecasting Models without and with Continual Learning},
+year = {2023},
+isbn = {9798400702303},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3600100.3623726},
+doi = {10.1145/3600100.3623726},
+booktitle = {Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation},
+pages = {41–50},
+numpages = {10},
+keywords = {benchmarking, continual learning, energy use, electricity use, out-of-distribution, timeseries forecasting},
+location = {Istanbul, Turkey},
+series = {BuildSys '23}
 }
 ```
 
